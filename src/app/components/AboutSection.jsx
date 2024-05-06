@@ -65,7 +65,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I'm apprenticeship in IT and I have been passionate about this field 
+          I&aposm apprenticeship in IT and I have been passionate about this field 
           for a long time. I started coding in high school and have been evolving in this field ever since. 
           During my schooling I was able to discover lots of different languages ​​and technologies. I was 
           able to do mobile and web development. I am a team player and I am excited to work with others 
